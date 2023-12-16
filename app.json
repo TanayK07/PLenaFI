@@ -1,0 +1,24 @@
+{
+	"expo": {
+		"name": "PlenaFi",
+		"slug": "shop",
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "",
+		"userInterfaceStyle": "light",
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": true,
+			"bundleIdentifier": "com.tanay.plena"
+		},
+		"android": {
+			"package": "com.tanay.plena"
+		},
+		"web": {},
+		"extra": {
+			"eas": {
+				"projectId": "bc35a7ed-eae7-4cb5-8421-ed69912b3b98"
+			}
+		}
+	}
+}
